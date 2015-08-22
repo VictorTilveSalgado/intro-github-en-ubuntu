@@ -1,0 +1,14 @@
+# Comillas simples
+cads = 'Texto \n entre comillas dobles'
+
+# Comillas doble
+cadd = "Texto entre \n\t comillas dobles"
+
+cadc = """ sdvverveveeiveicierievni
+evetbry
+rrynynrynn
+rtnrnrnrynry\n\n"""
+
+print cads
+print cadd
+print cadc
